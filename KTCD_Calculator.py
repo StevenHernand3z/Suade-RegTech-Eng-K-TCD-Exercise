@@ -1,10 +1,5 @@
 import json
 import datetime
-
-#REMOVE - filename = input('Enter required text: ')
-#REMOVE - Write def nameoffunc(filename):
-    #then indent everything below and type 'return KTCD at end to output
-
     
 def calculator(datajson):    
     with open(datajson) as file:
