@@ -29,4 +29,4 @@ Project is created with:
 * Json
 
 ## Launch
-The algorithm accepts as it's input a JSON file (.json) conforming to the FIRE Data Format [Link](https://github.com/suadelabs/fire), and that is saved in the same directory as it's code.
+The algorithm accepts a JSON file (.json) as it's input, conforming to the FIRE Data Format [Link](https://github.com/suadelabs/fire). In order for the code to run, the JSON file must be saved in the same directory as the code.
