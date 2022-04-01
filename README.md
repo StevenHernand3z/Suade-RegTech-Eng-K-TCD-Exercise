@@ -8,7 +8,7 @@ This project is a simple Trading Counterparty Default Risk (K-TCD) calculator, c
 * [Launch](#launch)
 
 ## General Information
-This calculator computes the K-TCD value for Reverse Repo transactions, specifically a two legged Securities Financing Transaction (SFT). All in accordance with Chapter 4 Section 1 "Trading Counterparty default" in the Investment Firm Regulation [Link](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R2033) (Articles 26-32).
+This calculator computes the K-TCD value for Reverse Repo transactions, specifically a two legged Securities Financing Transaction (SFT). All in accordance with Chapter 4 Section 1 "Trading Counterparty default" in the [Investment Firm Regulation](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32019R2033) (Articles 26-32).
 
 ## K-TCD Computation
 
@@ -29,4 +29,4 @@ Project is created with:
 * Json
 
 ## Launch
-The algorithm accepts a JSON file (.json) as it's input, conforming to the FIRE Data Format [Link](https://github.com/suadelabs/fire). In order for the code to run, the JSON file must be saved in the same directory as the code.
+The algorithm accepts a JSON file (.json) as it's input, conforming to the [FIRE Data Format](https://github.com/suadelabs/fire). In order for the code to run, the JSON file must be saved in the same directory as the code.
